@@ -1,0 +1,145 @@
+The system is: Windows - 6.2 - x86
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec2688976191
+
+Microsoft (R) Microsoft Visual Studioÿ2012 version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Tous droits r‚serv‚s.
+1>------ D‚but de la g‚n‚rationÿ: Projetÿ: cmTryCompileExec2688976191, Configurationÿ: Debug Win32 ------
+1>  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ17.00.50727.1 pour x86
+1>  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2688976191.dir\Debug\\" /Fd"D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2688976191.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 testCCompiler.c
+1>  
+1>  testCCompiler.c
+1>  cmTryCompileExec2688976191.vcxproj -> D:\SFML-2.0-rc\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2688976191.exe
+========== G‚n‚rationÿ: 1 a r‚ussi, 0 a ‚chou‚, 0 mis … jour, 0 a ‚t‚ ignor‚ ==========
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3411050805
+
+Microsoft (R) Microsoft Visual Studioÿ2012 version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Tous droits r‚serv‚s.
+1>------ D‚but de la g‚n‚rationÿ: Projetÿ: cmTryCompileExec3411050805, Configurationÿ: Debug Win32 ------
+1>  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ17.00.50727.1 pour x86
+1>  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3411050805.dir\Debug\\" /Fd"D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3411050805.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"
+1>  
+1>  CMakeCCompilerABI.c
+1>  cmTryCompileExec3411050805.vcxproj -> D:\SFML-2.0-rc\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3411050805.exe
+========== G‚n‚rationÿ: 1 a r‚ussi, 0 a ‚chou‚, 0 mis … jour, 0 a ‚t‚ ignor‚ ==========
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec18572787
+
+Microsoft (R) Microsoft Visual Studioÿ2012 version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Tous droits r‚serv‚s.
+1>------ D‚but de la g‚n‚rationÿ: Projetÿ: cmTryCompileExec18572787, Configurationÿ: Debug Win32 ------
+1>  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ17.00.50727.1 pour x86
+1>  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec18572787.dir\Debug\\" /Fd"D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec18572787.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 testCXXCompiler.cxx
+1>  
+1>  testCXXCompiler.cxx
+1>  cmTryCompileExec18572787.vcxproj -> D:\SFML-2.0-rc\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec18572787.exe
+========== G‚n‚rationÿ: 1 a r‚ussi, 0 a ‚chou‚, 0 mis … jour, 0 a ‚t‚ ignor‚ ==========
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1025525423
+
+Microsoft (R) Microsoft Visual Studioÿ2012 version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Tous droits r‚serv‚s.
+1>------ D‚but de la g‚n‚rationÿ: Projetÿ: cmTryCompileExec1025525423, Configurationÿ: Debug Win32 ------
+1>  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ17.00.50727.1 pour x86
+1>  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1025525423.dir\Debug\\" /Fd"D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1025525423.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"
+1>  
+1>  CMakeCXXCompilerABI.cpp
+1>  cmTryCompileExec1025525423.vcxproj -> D:\SFML-2.0-rc\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1025525423.exe
+========== G‚n‚rationÿ: 1 a r‚ussi, 0 a ‚chou‚, 0 mis … jour, 0 a ‚t‚ ignor‚ ==========
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1556196664
+
+Microsoft (R) Microsoft Visual Studioÿ2012 version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Tous droits r‚serv‚s.
+1>------ D‚but de la g‚n‚rationÿ: Projetÿ: cmTryCompileExec1556196664, Configurationÿ: Debug Win32 ------
+1>  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ17.00.50727.1 pour x86
+1>  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1556196664.dir\Debug\\" /Fd"D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1556196664.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.c
+1>  
+1>  CheckIncludeFile.c
+1>  cmTryCompileExec1556196664.vcxproj -> D:\SFML-2.0-rc\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1556196664.exe
+========== G‚n‚rationÿ: 1 a r‚ussi, 0 a ‚chou‚, 0 mis … jour, 0 a ‚t‚ ignor‚ ==========
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec78129872
+
+Microsoft (R) Microsoft Visual Studioÿ2012 version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Tous droits r‚serv‚s.
+1>------ D‚but de la g‚n‚rationÿ: Projetÿ: cmTryCompileExec78129872, Configurationÿ: Debug Win32 ------
+1>  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ17.00.50727.1 pour x86
+1>  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec78129872.dir\Debug\\" /Fd"D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec78129872.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.c
+1>  
+1>  CheckIncludeFile.c
+1>  cmTryCompileExec78129872.vcxproj -> D:\SFML-2.0-rc\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec78129872.exe
+========== G‚n‚rationÿ: 1 a r‚ussi, 0 a ‚chou‚, 0 mis … jour, 0 a ‚t‚ ignor‚ ==========
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3500120519
+
+Microsoft (R) Microsoft Visual Studioÿ2012 version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Tous droits r‚serv‚s.
+1>------ D‚but de la g‚n‚rationÿ: Projetÿ: cmTryCompileExec3500120519, Configurationÿ: Debug Win32 ------
+1>  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ17.00.50727.1 pour x86
+1>  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3500120519.dir\Debug\\" /Fd"D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3500120519.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.c
+1>  
+1>  CheckIncludeFile.c
+1>  cmTryCompileExec3500120519.vcxproj -> D:\SFML-2.0-rc\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3500120519.exe
+========== G‚n‚rationÿ: 1 a r‚ussi, 0 a ‚chou‚, 0 mis … jour, 0 a ‚t‚ ignor‚ ==========
+
+
+Determining size of void* passed with the following output:
+Change Dir: D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3900299819
+
+Microsoft (R) Microsoft Visual Studioÿ2012 version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Tous droits r‚serv‚s.
+1>------ D‚but de la g‚n‚rationÿ: Projetÿ: cmTryCompileExec3900299819, Configurationÿ: Debug Win32 ------
+1>  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ17.00.50727.1 pour x86
+1>  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3900299819.dir\Debug\\" /Fd"D:/SFML-2.0-rc/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3900299819.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 "D:\SFML-2.0-rc\build\CMakeFiles\CheckTypeSize\SIZEOF_VOID_PTR.c"
+1>  
+1>  SIZEOF_VOID_PTR.c
+1>  cmTryCompileExec3900299819.vcxproj -> D:\SFML-2.0-rc\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3900299819.exe
+========== G‚n‚rationÿ: 1 a r‚ussi, 0 a ‚chou‚, 0 mis … jour, 0 a ‚t‚ ignor‚ ==========
+
+

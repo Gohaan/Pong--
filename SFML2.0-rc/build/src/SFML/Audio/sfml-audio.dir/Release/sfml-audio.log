@@ -1,0 +1,38 @@
+﻿La génération a démarré 11/10/2012 08:40:51.
+     1>Projet "D:\SFML-2.0-rc\build\src\SFML\Audio\sfml-audio.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>CustomBuild:
+         Building Custom Rule D:/SFML-2.0-rc/src/SFML/Audio/CMakeLists.txt
+         CMake does not need to re-run because D:\SFML-2.0-rc\build\src\SFML\Audio\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:/SFML-2.0-rc/include" /I"D:/SFML-2.0-rc/src" /I"D:/SFML-2.0-rc/extlibs/headers/AL" /I"D:/SFML-2.0-rc/extlibs/headers/libsndfile/windows" /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Release\"" /D SFML_AUDIO_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sfml-audio.dir\Release\\" /Fd"D:/SFML-2.0-rc/build/lib/Release/sfml-audio.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 ..\..\..\..\src\SFML\Audio\ALCheck.cpp ..\..\..\..\src\SFML\Audio\AudioDevice.cpp ..\..\..\..\src\SFML\Audio\Listener.cpp ..\..\..\..\src\SFML\Audio\Music.cpp ..\..\..\..\src\SFML\Audio\Sound.cpp ..\..\..\..\src\SFML\Audio\SoundBuffer.cpp ..\..\..\..\src\SFML\Audio\SoundBufferRecorder.cpp ..\..\..\..\src\SFML\Audio\SoundFile.cpp ..\..\..\..\src\SFML\Audio\SoundRecorder.cpp ..\..\..\..\src\SFML\Audio\SoundSource.cpp ..\..\..\..\src\SFML\Audio\SoundStream.cpp
+         ALCheck.cpp
+         AudioDevice.cpp
+         Listener.cpp
+         Music.cpp
+         Sound.cpp
+         SoundBuffer.cpp
+         SoundBufferRecorder.cpp
+         SoundFile.cpp
+         SoundRecorder.cpp
+         SoundSource.cpp
+         SoundStream.cpp
+         Génération de code en cours...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SFML-2.0-rc\build\lib\Release\sfml-audio-2.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "..\..\..\lib\Release\sfml-system.lib" "..\..\..\..\extlibs\libs-msvc\x86\openal32.lib" "..\..\..\..\extlibs\libs-msvc\x86\sndfile.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:/SFML-2.0-rc/build/lib/Release/sfml-audio.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/SFML-2.0-rc/build/lib/Release/sfml-audio.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /DLL "sfml-audio.dir\Release\ALCheck.obj"
+         "sfml-audio.dir\Release\AudioDevice.obj"
+         "sfml-audio.dir\Release\Listener.obj"
+         "sfml-audio.dir\Release\Music.obj"
+         "sfml-audio.dir\Release\Sound.obj"
+         "sfml-audio.dir\Release\SoundBuffer.obj"
+         "sfml-audio.dir\Release\SoundBufferRecorder.obj"
+         "sfml-audio.dir\Release\SoundFile.obj"
+         "sfml-audio.dir\Release\SoundRecorder.obj"
+         "sfml-audio.dir\Release\SoundSource.obj"
+         "sfml-audio.dir\Release\SoundStream.obj"
+            Création de la bibliothèque D:/SFML-2.0-rc/build/lib/Release/sfml-audio.lib et de l'objet D:/SFML-2.0-rc/build/lib/Release/sfml-audio.exp
+         sfml-audio.vcxproj -> D:\SFML-2.0-rc\build\lib\Release\sfml-audio-2.dll
+     1>Génération du projet "D:\SFML-2.0-rc\build\src\SFML\Audio\sfml-audio.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:08.32

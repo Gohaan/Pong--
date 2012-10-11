@@ -1,0 +1,16 @@
+﻿La génération a démarré 11/10/2012 08:40:44.
+     1>Projet "D:\SFML-2.0-rc\build\src\SFML\Main\sfml-main.vcxproj" sur le nœud 3 (Build cible(s)).
+     1>CustomBuild:
+         Building Custom Rule D:/SFML-2.0-rc/src/SFML/Main/CMakeLists.txt
+         CMake does not need to re-run because D:\SFML-2.0-rc\build\src\SFML\Main\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:/SFML-2.0-rc/include" /I"D:/SFML-2.0-rc/src" /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sfml-main.dir\Release\\" /Fd"D:/SFML-2.0-rc/build/lib/Release/sfml-main.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 ..\..\..\..\src\SFML\Main\SFML_Main.cpp
+         SFML_Main.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"D:\SFML-2.0-rc\build\lib\Release\sfml-main.lib" /NOLOGO "sfml-main.dir\Release\SFML_Main.obj"
+         sfml-main.vcxproj -> D:\SFML-2.0-rc\build\lib\Release\sfml-main.lib
+     1>Génération du projet "D:\SFML-2.0-rc\build\src\SFML\Main\sfml-main.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.20

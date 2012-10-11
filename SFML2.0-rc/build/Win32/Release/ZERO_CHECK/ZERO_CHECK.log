@@ -1,0 +1,17 @@
+﻿La génération a démarré 11/10/2012 08:40:44.
+     1>Projet "D:\SFML-2.0-rc\build\ZERO_CHECK.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because D:/SFML-2.0-rc/build/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/SFML-2.0-rc/build/src/SFML/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/SFML-2.0-rc/build/src/SFML/System/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/SFML-2.0-rc/build/src/SFML/Window/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/SFML-2.0-rc/build/src/SFML/Network/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/SFML-2.0-rc/build/src/SFML/Graphics/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/SFML-2.0-rc/build/src/SFML/Audio/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/SFML-2.0-rc/build/src/SFML/Main/CMakeFiles/generate.stamp is up-to-date.
+     1>Génération du projet "D:\SFML-2.0-rc\build\ZERO_CHECK.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.21

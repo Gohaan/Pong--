@@ -1,0 +1,36 @@
+﻿La génération a démarré 11/10/2012 08:40:52.
+     1>Projet "D:\SFML-2.0-rc\build\src\SFML\Network\sfml-network.vcxproj" sur le nœud 4 (Build cible(s)).
+     1>CustomBuild:
+         Building Custom Rule D:/SFML-2.0-rc/src/SFML/Network/CMakeLists.txt
+         CMake does not need to re-run because D:\SFML-2.0-rc\build\src\SFML\Network\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:/SFML-2.0-rc/include" /I"D:/SFML-2.0-rc/src" /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Release\"" /D SFML_NETWORK_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sfml-network.dir\Release\\" /Fd"D:/SFML-2.0-rc/build/lib/Release/sfml-network.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 ..\..\..\..\src\SFML\Network\Ftp.cpp ..\..\..\..\src\SFML\Network\Http.cpp ..\..\..\..\src\SFML\Network\IpAddress.cpp ..\..\..\..\src\SFML\Network\Packet.cpp ..\..\..\..\src\SFML\Network\Socket.cpp ..\..\..\..\src\SFML\Network\SocketSelector.cpp ..\..\..\..\src\SFML\Network\TcpListener.cpp ..\..\..\..\src\SFML\Network\TcpSocket.cpp ..\..\..\..\src\SFML\Network\UdpSocket.cpp ..\..\..\..\src\SFML\Network\Win32\SocketImpl.cpp
+         Ftp.cpp
+         Http.cpp
+         IpAddress.cpp
+         Packet.cpp
+         Socket.cpp
+         SocketSelector.cpp
+         TcpListener.cpp
+         TcpSocket.cpp
+         UdpSocket.cpp
+         SocketImpl.cpp
+         Génération de code en cours...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SFML-2.0-rc\build\lib\Release\sfml-network-2.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "..\..\..\lib\Release\sfml-system.lib" ws2_32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:/SFML-2.0-rc/build/lib/Release/sfml-network.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/SFML-2.0-rc/build/lib/Release/sfml-network.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /DLL "sfml-network.dir\Release\Ftp.obj"
+         "sfml-network.dir\Release\Http.obj"
+         "sfml-network.dir\Release\IpAddress.obj"
+         "sfml-network.dir\Release\Packet.obj"
+         "sfml-network.dir\Release\Socket.obj"
+         "sfml-network.dir\Release\SocketSelector.obj"
+         "sfml-network.dir\Release\TcpListener.obj"
+         "sfml-network.dir\Release\TcpSocket.obj"
+         "sfml-network.dir\Release\UdpSocket.obj"
+         "sfml-network.dir\Release\SocketImpl.obj"
+            Création de la bibliothèque D:/SFML-2.0-rc/build/lib/Release/sfml-network.lib et de l'objet D:/SFML-2.0-rc/build/lib/Release/sfml-network.exp
+         sfml-network.vcxproj -> D:\SFML-2.0-rc\build\lib\Release\sfml-network-2.dll
+     1>Génération du projet "D:\SFML-2.0-rc\build\src\SFML\Network\sfml-network.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:13.69

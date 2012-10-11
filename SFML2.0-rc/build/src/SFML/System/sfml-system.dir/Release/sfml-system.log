@@ -1,0 +1,44 @@
+﻿La génération a démarré 11/10/2012 08:40:44.
+     1>Projet "D:\SFML-2.0-rc\build\src\SFML\System\sfml-system.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>CustomBuild:
+         Building Custom Rule D:/SFML-2.0-rc/src/SFML/System/CMakeLists.txt
+         CMake does not need to re-run because D:\SFML-2.0-rc\build\src\SFML\System\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:/SFML-2.0-rc/include" /I"D:/SFML-2.0-rc/src" /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Release\"" /D SFML_SYSTEM_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sfml-system.dir\Release\\" /Fd"D:/SFML-2.0-rc/build/lib/Release/sfml-system.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 ..\..\..\..\src\SFML\System\Clock.cpp ..\..\..\..\src\SFML\System\Err.cpp ..\..\..\..\src\SFML\System\Lock.cpp ..\..\..\..\src\SFML\System\Mutex.cpp ..\..\..\..\src\SFML\System\Sleep.cpp ..\..\..\..\src\SFML\System\String.cpp ..\..\..\..\src\SFML\System\Thread.cpp ..\..\..\..\src\SFML\System\ThreadLocal.cpp ..\..\..\..\src\SFML\System\Time.cpp ..\..\..\..\src\SFML\System\Win32\ClockImpl.cpp ..\..\..\..\src\SFML\System\Win32\MutexImpl.cpp ..\..\..\..\src\SFML\System\Win32\SleepImpl.cpp ..\..\..\..\src\SFML\System\Win32\ThreadImpl.cpp ..\..\..\..\src\SFML\System\Win32\ThreadLocalImpl.cpp
+         Clock.cpp
+         Err.cpp
+         Lock.cpp
+         Mutex.cpp
+         Sleep.cpp
+         String.cpp
+         Thread.cpp
+         ThreadLocal.cpp
+         Time.cpp
+         ClockImpl.cpp
+         MutexImpl.cpp
+         SleepImpl.cpp
+         ThreadImpl.cpp
+         ThreadLocalImpl.cpp
+         Génération de code en cours...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SFML-2.0-rc\build\lib\Release\sfml-system-2.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:/SFML-2.0-rc/build/lib/Release/sfml-system.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/SFML-2.0-rc/build/lib/Release/sfml-system.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /DLL "sfml-system.dir\Release\Clock.obj"
+         "sfml-system.dir\Release\Err.obj"
+         "sfml-system.dir\Release\Lock.obj"
+         "sfml-system.dir\Release\Mutex.obj"
+         "sfml-system.dir\Release\Sleep.obj"
+         "sfml-system.dir\Release\String.obj"
+         "sfml-system.dir\Release\Thread.obj"
+         "sfml-system.dir\Release\ThreadLocal.obj"
+         "sfml-system.dir\Release\Time.obj"
+         "sfml-system.dir\Release\ClockImpl.obj"
+         "sfml-system.dir\Release\MutexImpl.obj"
+         "sfml-system.dir\Release\SleepImpl.obj"
+         "sfml-system.dir\Release\ThreadImpl.obj"
+         "sfml-system.dir\Release\ThreadLocalImpl.obj"
+            Création de la bibliothèque D:/SFML-2.0-rc/build/lib/Release/sfml-system.lib et de l'objet D:/SFML-2.0-rc/build/lib/Release/sfml-system.exp
+         sfml-system.vcxproj -> D:\SFML-2.0-rc\build\lib\Release\sfml-system-2.dll
+     1>Génération du projet "D:\SFML-2.0-rc\build\src\SFML\System\sfml-system.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:06.99

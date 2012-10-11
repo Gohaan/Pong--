@@ -1,0 +1,8 @@
+D:/SFML-2.0-rc/build/CMakeFiles/ALL_BUILD.dir
+D:/SFML-2.0-rc/build/CMakeFiles/ZERO_CHECK.dir
+D:/SFML-2.0-rc/build/src/SFML/Audio/CMakeFiles/sfml-audio.dir
+D:/SFML-2.0-rc/build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
+D:/SFML-2.0-rc/build/src/SFML/Main/CMakeFiles/sfml-main.dir
+D:/SFML-2.0-rc/build/src/SFML/Network/CMakeFiles/sfml-network.dir
+D:/SFML-2.0-rc/build/src/SFML/System/CMakeFiles/sfml-system.dir
+D:/SFML-2.0-rc/build/src/SFML/Window/CMakeFiles/sfml-window.dir

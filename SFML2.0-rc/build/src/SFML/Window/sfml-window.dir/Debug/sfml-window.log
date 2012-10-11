@@ -1,0 +1,46 @@
+﻿La génération a démarré 11/10/2012 08:39:36.
+     1>Projet "D:\SFML-2.0-rc\build\src\SFML\Window\sfml-window.vcxproj" sur le nœud 3 (Build cible(s)).
+     1>CustomBuild:
+         Building Custom Rule D:/SFML-2.0-rc/src/SFML/Window/CMakeLists.txt
+         CMake does not need to re-run because D:\SFML-2.0-rc\build\src\SFML\Window\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:/SFML-2.0-rc/include" /I"D:/SFML-2.0-rc/src" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D SFML_WINDOW_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sfml-window.dir\Debug\\" /Fd"D:/SFML-2.0-rc/build/lib/Debug/sfml-window-d.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 ..\..\..\..\src\SFML\Window\Context.cpp ..\..\..\..\src\SFML\Window\GlContext.cpp ..\..\..\..\src\SFML\Window\GlResource.cpp ..\..\..\..\src\SFML\Window\Joystick.cpp ..\..\..\..\src\SFML\Window\JoystickManager.cpp ..\..\..\..\src\SFML\Window\Keyboard.cpp ..\..\..\..\src\SFML\Window\Mouse.cpp ..\..\..\..\src\SFML\Window\VideoMode.cpp ..\..\..\..\src\SFML\Window\Window.cpp ..\..\..\..\src\SFML\Window\WindowImpl.cpp ..\..\..\..\src\SFML\Window\Win32\WglContext.cpp ..\..\..\..\src\SFML\Window\Win32\InputImpl.cpp ..\..\..\..\src\SFML\Window\Win32\JoystickImpl.cpp ..\..\..\..\src\SFML\Window\Win32\VideoModeImpl.cpp ..\..\..\..\src\SFML\Window\Win32\WindowImplWin32.cpp
+         Context.cpp
+         GlContext.cpp
+         GlResource.cpp
+         Joystick.cpp
+         JoystickManager.cpp
+         Keyboard.cpp
+         Mouse.cpp
+         VideoMode.cpp
+         Window.cpp
+         WindowImpl.cpp
+         WglContext.cpp
+         InputImpl.cpp
+         JoystickImpl.cpp
+         VideoModeImpl.cpp
+         WindowImplWin32.cpp
+         Génération de code en cours...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SFML-2.0-rc\build\lib\Debug\sfml-window-d-2.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "..\..\..\lib\Debug\sfml-system-d.lib" opengl32.lib winmm.lib gdi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/SFML-2.0-rc/build/lib/Debug/sfml-window-d.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/SFML-2.0-rc/build/lib/Debug/sfml-window-d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug /DLL "sfml-window.dir\Debug\Context.obj"
+         "sfml-window.dir\Debug\GlContext.obj"
+         "sfml-window.dir\Debug\GlResource.obj"
+         "sfml-window.dir\Debug\Joystick.obj"
+         "sfml-window.dir\Debug\JoystickManager.obj"
+         "sfml-window.dir\Debug\Keyboard.obj"
+         "sfml-window.dir\Debug\Mouse.obj"
+         "sfml-window.dir\Debug\VideoMode.obj"
+         "sfml-window.dir\Debug\Window.obj"
+         "sfml-window.dir\Debug\WindowImpl.obj"
+         "sfml-window.dir\Debug\WglContext.obj"
+         "sfml-window.dir\Debug\InputImpl.obj"
+         "sfml-window.dir\Debug\JoystickImpl.obj"
+         "sfml-window.dir\Debug\VideoModeImpl.obj"
+         "sfml-window.dir\Debug\WindowImplWin32.obj"
+            Création de la bibliothèque D:/SFML-2.0-rc/build/lib/Debug/sfml-window-d.lib et de l'objet D:/SFML-2.0-rc/build/lib/Debug/sfml-window-d.exp
+         sfml-window.vcxproj -> D:\SFML-2.0-rc\build\lib\Debug\sfml-window-d-2.dll
+     1>Génération du projet "D:\SFML-2.0-rc\build\src\SFML\Window\sfml-window.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:14.88

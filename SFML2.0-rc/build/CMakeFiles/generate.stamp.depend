@@ -1,0 +1,28 @@
+# CMake generation dependency list for this directory.
+D:/SFML-2.0-rc/CMakeLists.txt
+D:/SFML-2.0-rc/build/CMakeFiles/CMakeSystem.cmake
+D:/SFML-2.0-rc/build/CMakeFiles/CMakeCCompiler.cmake
+D:/SFML-2.0-rc/build/CMakeFiles/CMakeCXXCompiler.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/WindowsPaths.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-cl.cmake
+D:/SFML-2.0-rc/build/CMakeFiles/CMakeCPlatform.cmake
+D:/SFML-2.0-rc/build/CMakeFiles/CMakeCXXPlatform.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/cl.cmake
+D:/SFML-2.0-rc/build/CMakeFiles/CMakeRCCompiler.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-cl.cmake
+D:/SFML-2.0-rc/build/CMakeFiles/CMakeCPlatform.cmake
+D:/SFML-2.0-rc/build/CMakeFiles/CMakeCXXPlatform.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/cl.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeCommonLanguageInclude.cmake
+D:/SFML-2.0-rc/cmake/Config.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CheckTypeSize.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeExpandImportedTargets.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeParseArguments.cmake

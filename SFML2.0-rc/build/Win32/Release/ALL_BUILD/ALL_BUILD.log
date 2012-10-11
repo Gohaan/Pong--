@@ -1,0 +1,11 @@
+﻿La génération a démarré 11/10/2012 08:41:18.
+     1>Projet "D:\SFML-2.0-rc\build\ALL_BUILD.vcxproj" sur le nœud 3 (Build cible(s)).
+     1>CustomBuild:
+         Building Custom Rule D:/SFML-2.0-rc/CMakeLists.txt
+         CMake does not need to re-run because D:\SFML-2.0-rc\build\CMakeFiles\generate.stamp is up-to-date.
+         Build all projects
+     1>Génération du projet "D:\SFML-2.0-rc\build\ALL_BUILD.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.26

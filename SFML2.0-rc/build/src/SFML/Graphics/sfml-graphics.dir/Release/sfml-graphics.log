@@ -1,0 +1,71 @@
+﻿La génération a démarré 11/10/2012 08:41:05.
+     1>Projet "D:\SFML-2.0-rc\build\src\SFML\Graphics\sfml-graphics.vcxproj" sur le nœud 4 (Build cible(s)).
+     1>CustomBuild:
+         Building Custom Rule D:/SFML-2.0-rc/src/SFML/Graphics/CMakeLists.txt
+         CMake does not need to re-run because D:\SFML-2.0-rc\build\src\SFML\Graphics\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:/SFML-2.0-rc/include" /I"D:/SFML-2.0-rc/src" /I"D:/SFML-2.0-rc/extlibs/headers" /I"D:/SFML-2.0-rc/extlibs/headers/jpeg" /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D GLEW_STATIC /D STBI_FAILURE_USERMSG /D "CMAKE_INTDIR=\"Release\"" /D SFML_GRAPHICS_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sfml-graphics.dir\Release\\" /Fd"D:/SFML-2.0-rc/build/lib/Release/sfml-graphics.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 ..\..\..\..\src\SFML\Graphics\Color.cpp ..\..\..\..\src\SFML\Graphics\Font.cpp ..\..\..\..\src\SFML\Graphics\GLCheck.cpp ..\..\..\..\src\SFML\Graphics\Image.cpp ..\..\..\..\src\SFML\Graphics\ImageLoader.cpp ..\..\..\..\src\SFML\Graphics\RenderStates.cpp ..\..\..\..\src\SFML\Graphics\RenderTexture.cpp ..\..\..\..\src\SFML\Graphics\RenderTextureImpl.cpp ..\..\..\..\src\SFML\Graphics\RenderTextureImplFBO.cpp ..\..\..\..\src\SFML\Graphics\RenderTextureImplDefault.cpp ..\..\..\..\src\SFML\Graphics\RenderTarget.cpp ..\..\..\..\src\SFML\Graphics\RenderWindow.cpp ..\..\..\..\src\SFML\Graphics\Shader.cpp ..\..\..\..\src\SFML\Graphics\Shape.cpp ..\..\..\..\src\SFML\Graphics\CircleShape.cpp ..\..\..\..\src\SFML\Graphics\RectangleShape.cpp ..\..\..\..\src\SFML\Graphics\ConvexShape.cpp ..\..\..\..\src\SFML\Graphics\Sprite.cpp ..\..\..\..\src\SFML\Graphics\Text.cpp ..\..\..\..\src\SFML\Graphics\Texture.cpp ..\..\..\..\src\SFML\Graphics\TextureSaver.cpp ..\..\..\..\src\SFML\Graphics\Transform.cpp ..\..\..\..\src\SFML\Graphics\Transformable.cpp ..\..\..\..\src\SFML\Graphics\View.cpp ..\..\..\..\src\SFML\Graphics\Vertex.cpp ..\..\..\..\src\SFML\Graphics\VertexArray.cpp
+         Color.cpp
+         Font.cpp
+         GLCheck.cpp
+         Image.cpp
+         ImageLoader.cpp
+         RenderStates.cpp
+         RenderTexture.cpp
+         RenderTextureImpl.cpp
+         RenderTextureImplFBO.cpp
+         RenderTextureImplDefault.cpp
+         RenderTarget.cpp
+         RenderWindow.cpp
+         Shader.cpp
+     1>..\..\..\..\src\SFML\Graphics\Shader.cpp(59): warning C4244: 'argument' : conversion de 'std::streamsize' en 'unsigned int', perte possible de données
+         Shape.cpp
+         CircleShape.cpp
+         RectangleShape.cpp
+         ConvexShape.cpp
+         Sprite.cpp
+         Text.cpp
+         Texture.cpp
+         Génération de code en cours...
+         Compilation en cours...
+         TextureSaver.cpp
+         Transform.cpp
+         Transformable.cpp
+         View.cpp
+         Vertex.cpp
+         VertexArray.cpp
+         Génération de code en cours...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SFML-2.0-rc\build\lib\Release\sfml-graphics-2.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "..\..\..\lib\Release\sfml-window.lib" "..\..\..\lib\Release\sfml-system.lib" "..\..\..\..\extlibs\libs-msvc\x86\freetype.lib" "..\..\..\..\extlibs\libs-msvc\x86\glew.lib" "..\..\..\..\extlibs\libs-msvc\x86\jpeg.lib" opengl32.lib winmm.lib gdi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:/SFML-2.0-rc/build/lib/Release/sfml-graphics.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/SFML-2.0-rc/build/lib/Release/sfml-graphics.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /DLL "sfml-graphics.dir\Release\Color.obj"
+         "sfml-graphics.dir\Release\Font.obj"
+         "sfml-graphics.dir\Release\GLCheck.obj"
+         "sfml-graphics.dir\Release\Image.obj"
+         "sfml-graphics.dir\Release\ImageLoader.obj"
+         "sfml-graphics.dir\Release\RenderStates.obj"
+         "sfml-graphics.dir\Release\RenderTexture.obj"
+         "sfml-graphics.dir\Release\RenderTextureImpl.obj"
+         "sfml-graphics.dir\Release\RenderTextureImplFBO.obj"
+         "sfml-graphics.dir\Release\RenderTextureImplDefault.obj"
+         "sfml-graphics.dir\Release\RenderTarget.obj"
+         "sfml-graphics.dir\Release\RenderWindow.obj"
+         "sfml-graphics.dir\Release\Shader.obj"
+         "sfml-graphics.dir\Release\Shape.obj"
+         "sfml-graphics.dir\Release\CircleShape.obj"
+         "sfml-graphics.dir\Release\RectangleShape.obj"
+         "sfml-graphics.dir\Release\ConvexShape.obj"
+         "sfml-graphics.dir\Release\Sprite.obj"
+         "sfml-graphics.dir\Release\Text.obj"
+         "sfml-graphics.dir\Release\Texture.obj"
+         "sfml-graphics.dir\Release\TextureSaver.obj"
+         "sfml-graphics.dir\Release\Transform.obj"
+         "sfml-graphics.dir\Release\Transformable.obj"
+         "sfml-graphics.dir\Release\View.obj"
+         "sfml-graphics.dir\Release\Vertex.obj"
+         "sfml-graphics.dir\Release\VertexArray.obj"
+            Création de la bibliothèque D:/SFML-2.0-rc/build/lib/Release/sfml-graphics.lib et de l'objet D:/SFML-2.0-rc/build/lib/Release/sfml-graphics.exp
+         sfml-graphics.vcxproj -> D:\SFML-2.0-rc\build\lib\Release\sfml-graphics-2.dll
+     1>Génération du projet "D:\SFML-2.0-rc\build\src\SFML\Graphics\sfml-graphics.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:12.81
