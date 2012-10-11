@@ -1,0 +1,28 @@
+﻿La génération a démarré 11/10/2012 08:47:02.
+     1>Projet "d:\mes documents\visual studio 2012\Projects\SFML\SFML\SFML.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:\SFML-2.0-rc\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\mes documents\visual studio 2012\Projects\SFML\Debug\SFML.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\SFML-2.0-rc\build\lib\Debug" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"d:\mes documents\visual studio 2012\Projects\SFML\Debug\SFML.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\mes documents\visual studio 2012\Projects\SFML\Debug\SFML.lib" /MACHINE:X86 Debug\Source.obj
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QAE@III@Z) référencé dans la fonction _main
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Window::close(void)" (__imp_?close@Window@sf@@QAEXXZ) référencé dans la fonction _main
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: bool __thiscall sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QBE_NXZ) référencé dans la fonction _main
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z) référencé dans la fonction _main
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Window::display(void)" (__imp_?display@Window@sf@@QAEXXZ) référencé dans la fonction _main
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QAE@EEEE@Z) référencé dans la fonction _main
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QAEXABVColor@2@@Z) référencé dans la fonction _main
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z) référencé dans la fonction _main
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::RenderWindow::RenderWindow(class sf::VideoMode,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QAE@VVideoMode@1@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@IABUContextSettings@1@@Z) référencé dans la fonction _main
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UAE@XZ) référencé dans la fonction _main
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QAEXABVColor@2@@Z) référencé dans la fonction _main
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::CircleShape::CircleShape(float,unsigned int)" (__imp_??0CircleShape@sf@@QAE@MI@Z) référencé dans la fonction _main
+     1>Source.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: virtual __thiscall sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UAE@XZ) référencé dans la fonction _main
+     1>Source.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: static class sf::Color const sf::Color::Green" (__imp_?Green@Color@sf@@2V12@B)
+     1>Source.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+     1>d:\mes documents\visual studio 2012\Projects\SFML\Debug\SFML.exe : fatal error LNK1120: 15 externes non résolus
+     1>Génération du projet "d:\mes documents\visual studio 2012\Projects\SFML\SFML\SFML.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:02.16
